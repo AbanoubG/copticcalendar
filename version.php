@@ -21,9 +21,9 @@
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 defined('MOODLE_INTERNAL') || die();
-$plugin->version   = 2014020200; // The current plugin version (Date: YYYYMMDDXX).
+$plugin->version   = 2015032200; // The current plugin version (Date: YYYYMMDDXX).
 $plugin->requires  = 2013111801; // Requires this Moodle version.
 $plugin->component = 'calendartype_coptic'; // Full name of the plugin (used for diagnostics).
-$plugin->release   = '1.0 (Build: 20140202)';
+$plugin->release   = '1.0 (Build: 20150322)';
 $plugin->dependencies = array('calendartype_gregorian' => ANY_VERSION);
 $plugin->maturity   = MATURITY_STABLE;
