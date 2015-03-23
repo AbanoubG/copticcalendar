@@ -20,8 +20,4 @@
 * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 */
 defined('MOODLE_INTERNAL') || die;
-$settings->add(new admin_setting_configselect('calendartype_coptic/algorithm',
-        new lang_string('algorithm', 'calendartype_coptic'),
-        new lang_string('configalgorithm', 'calendartype_coptic'), 0,
-        array(new lang_string('algorithm1', 'calendartype_coptic'),
-              new lang_string('algorithm2', 'calendartype_coptic'))));
+$settings->add(new admin_setting_configselect('calendartype_coptic/
