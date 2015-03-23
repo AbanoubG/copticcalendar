@@ -1,4 +1,4 @@
-# copticcalendar
+
 Coptic Calendar (for Moodle)
  also called the Alexandrian calendar, is used by the Coptic Orthodox Church and still used in Egypt. This calendar is based on the ancient Egyptian calendar. 
 
