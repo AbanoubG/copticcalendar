@@ -52,4 +52,4 @@ $string['weekday3'] = 'Wednesday';
 $string['weekday4'] = 'Thursday';
 $string['weekday5'] = 'Friday';
 $string['weekday6'] = 'Saturday';
-$string['pluginname'] = 'Persian calendar type';
+$string['pluginname'] = 'Coptic calendar type';
