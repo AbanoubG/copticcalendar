@@ -16,7 +16,7 @@
 * Link to coptic calendar type settings.
 *
 * @package calendartype_copitc
-* @copyright 2008 onwards St.Thomas The Hermit COC {@link http://stthomascoc.com}
+* @copyright 2008 onwards Coptic Library
 * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 */
 defined('MOODLE_INTERNAL') || die;
